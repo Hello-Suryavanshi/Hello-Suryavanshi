@@ -1,4 +1,4 @@
-🎓 Double Major @ Penn State — Math, Economics<br>
+🎓 Double Major @ Penn State — Applied Math, Economics<br>
 📈 Aspiring Quant | AI-Powered Trading Projects<br>
 💼 Founder of Agnitro | A growing digital marketing agency<br>
 📊 Weekly mini-projects: Volatility modeling, NLP on earnings calls, alpha signals<br>
